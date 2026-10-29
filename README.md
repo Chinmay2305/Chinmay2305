@@ -18,12 +18,12 @@
 
 I'm a **Quality Assurance Engineer with 8 years of experience** in software testing, automation, and delivering reliable software products.
 
-- 🔍 Experienced in functional, regression, exploratory, and end-to-end testing.
+- 🔍 Experienced in functional, regression, exploratory and end-to-end testing.
 - 🧪 Building maintainable automation frameworks using Selenium with Java and Playwright.
-- 🔗 Skilled in REST API testing, SQL validation, and backend data verification.
-- 🤖 Exploring AI-assisted testing, intelligent test generation, and automation optimization.
-- ⚙️ Focused on reusable test components, efficient regression coverage, and early defect detection.
-- 📚 Continuously expanding my expertise in Playwright, TypeScript, and AI-driven quality engineering.
+- 🔗 Skilled in REST API testing, SQL validation and backend data verification.
+- 🤖 Exploring AI-assisted testing, intelligent test generation and automation optimization.
+- ⚙️ Focused on reusable test components, efficient regression coverage and early defect detection.
+- 📚 Continuously expanding my expertise in Playwright, TypeScript and AI-driven quality engineering.
 
 ---
 
@@ -69,18 +69,18 @@ I'm a **Quality Assurance Engineer with 8 years of experience** in software test
 - Exploring CI/CD integration and automated test reporting.
 
 ### 2. Playwright End-to-End Automation
-**Tech:** Playwright | TypeScript | Page Object Model
+**Tech:** Playwright | JavaScript | TypeScript | Page Object Model
 
 - Automating end-to-end web application workflows.
-- Building reusable page objects, locator strategies, and test utilities.
-- Validating UI behavior, navigation, and application state.
-- Using Playwright reports, traces, and debugging tools to investigate failures.
+- Building reusable page objects, locator strategies and test utilities.
+- Validating UI behavior, navigation and application state.
+- Using Playwright reports, traces and debugging tools to investigate failures.
 
 ### 3. API Testing & Backend Validation
 **Tech:** Postman | REST APIs | SQL
 
-- Validating API requests, responses, status codes, and error handling.
-- Testing positive, negative, and boundary scenarios.
+- Validating API requests, responses, status codes and error handling.
+- Testing positive, negative and boundary scenarios.
 - Verifying backend data integrity using SQL queries.
 - Checking consistency between API responses and persisted data.
 
@@ -88,7 +88,7 @@ I'm a **Quality Assurance Engineer with 8 years of experience** in software test
 **Tech:** AI Tools | Test Design | Automation
 
 - Exploring AI-assisted test case generation and automation development.
-- Evaluating AI-generated responses for consistency, correctness, and potential hallucinations.
+- Evaluating AI-generated responses for consistency, correctness and potential hallucinations.
 - Investigating ways to reduce repetitive testing and improve regression efficiency.
 - Exploring AI-assisted workflows for faster test design and defect analysis.
 
@@ -96,7 +96,7 @@ I'm a **Quality Assurance Engineer with 8 years of experience** in software test
 **Tech:** Playwright | JavaScript | Page Object Model
 
 - Automating role-based workflows and application navigation.
-- Validating search, filters, sorting, and export functionality.
+- Validating search, filters, sorting and export functionality.
 - Testing domain completion and assessment-dependent results.
 - Improving reusable automation components and regression coverage.
 
