@@ -65,18 +65,6 @@ I'm a **Quality Assurance Engineer with 8 years of experience** in software test
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chinmay2305&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay2305&layout=compact&theme=transparent&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### Quality is not an afterthought. It's part of the design.
