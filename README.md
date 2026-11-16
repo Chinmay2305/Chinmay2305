@@ -6,9 +6,17 @@
 
 **Building reliable software through smart testing and automation.**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge)](https://chinmay-qa.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-agrawal-73978138/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chinmay2305?tab=repositories)
+<a href="https://chinmay-qa.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio">
+</a>
+
+<a href="https://www.linkedin.com/in/chinmay-agrawal-73978138/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/Chinmay2305?tab=repositories" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
